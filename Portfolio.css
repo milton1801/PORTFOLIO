@@ -1,0 +1,52 @@
+img{
+    width: 20%;
+    height: auto;
+    text-align: center;
+}
+header{ 
+    color: black;
+    text-align: center;
+    
+}
+header{
+width: auto;
+  border: 0px solid black;
+  padding: 30px;
+  margin: 20px;
+  background-color: silver;
+}
+nav{ 
+    width: auto;
+  border: 0px solid black;
+  padding: 30px;
+  margin: 20px;
+  background-color: silver;
+  
+}
+nav{ 
+    color: black;
+    
+}
+footer{ 
+    width: auto;
+  border: 0px solid black;
+  padding: 30px;
+  margin: 20px;
+  background-color: silver;
+
+}
+footer{ 
+    color: black;
+    
+}
+div{
+    width: 60px;
+    border: 1px solid black;
+    padding: 35px;
+    margin: 10px;
+    background-color: white;
+
+}
+footer{ 
+   align-content: flex-start;
+}
